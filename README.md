@@ -5,8 +5,7 @@
 👨🏻‍🎓studied software engineering at alx.<br/>
 👨🏻‍🎨Web designer Fiverr.<br/>
 
-[![marouaneTZn's GitHub stats]([https://github-readme-stats.vercel.app/api?username=marouaneTZn&theme=radical](https://github-readme-stats-zakaria-aitali.vercel.app/api?username=marouaneTZn&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
-
+[marouaneTZn's GitHub stats](https://github-readme-stats-zakaria-aitali.vercel.app/api?username=marouaneTZn&theme=radical)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/matouzani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marouane1touzani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-touzan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MarouaneTouza_) 
 
